@@ -8,8 +8,8 @@ function exercicio05 () {
     comprimento = prompt("informe o comprimento do terreno: ")
 
     let area = largura * comprimento;
-    valorterreno; area * valorM2;
+    valorterreno = area * valorM2;
 
-    console.log(valorDoTerreno);
+    alert(valorterreno);
 }
 exercicio05()
