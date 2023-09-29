@@ -7,10 +7,9 @@ function lista02x04(){
         if (resposta2 == 1) 
         alert("Você precisa vir somente acompanhado com seus pais.")
     else {
-        let resposta3 = prompt ("Você é menor de idade? Digite 1 para sim e 2 para não");
-        if (resposta3 == 1)
-        alert("Você não poderá vir ao evento");
+        let resposta3;
+        alert("Você não poderá vir a festa")
         }
     }
 }
-lista02x04()
+lista02x04();

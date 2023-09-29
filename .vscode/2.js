@@ -13,5 +13,4 @@ function lista02x02() {
         alert(`O numero ${numero1} é maior`);
     }
 }
-lista02x02()
-
+lista02x02();
